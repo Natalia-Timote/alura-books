@@ -50,7 +50,7 @@ Os livros são exibidos dinamicamente com imagem, título, autor e valor, com ba
 
 **🏷️ Seleção por Categoria**
 
-O usuário pode escolher livros de diferentes categorias (como Front-End, Back-End, UX & Design).
+O usuário pode escolher livros de diferentes categorias (como Front-End, Back-End, Dados).
 
 <img src="imagens/alura-books-category.png" width="600" alt="Seleção por Categoria"/>
 
